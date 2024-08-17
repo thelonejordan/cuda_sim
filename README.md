@@ -1,6 +1,6 @@
 # (Basic) CUDA Simulator in Pure Python
 
-inspired by Jeremy Howard CUDA lectures
+Inspired by Jeremy Howard's [CUDA-MODE lectures](https://github.com/cuda-mode/lectures/tree/main/lecture_005). Also me GPU poor :(
 
 ```
 pip install -r requirements.txt
