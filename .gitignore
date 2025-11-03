@@ -1,3 +1,4 @@
-.ipynb_checkpoints
-.venv
+/.ipynb_checkpoints/
+/.venv/
+**/*/__pycache__/
 quickstart.ipynb
